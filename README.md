@@ -5,4 +5,4 @@ Every partical has a own velocity and acceleration. With open simplex noise prog
 
 ![Vector Map](https://github.com/SMDHuman/ParticleFlowField/blob/main/Screenshot_2.png)
 
-Particles boosted to direction to vector its currentle on. 
+Vectors boosted to direction to particles it's currently inside.
